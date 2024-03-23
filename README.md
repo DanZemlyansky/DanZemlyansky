@@ -1,5 +1,4 @@
 
-https://i.imgur.com/J6pxE93.png
 
 - 🌱 I’m currently learning Javascript , Python , SQL
 
