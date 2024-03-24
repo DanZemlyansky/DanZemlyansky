@@ -1,5 +1,4 @@
-
-
+![alt text](https://github.com/DanZemlyansky/DanZemlyansky/blob/main/DanZemlyansky.png?raw=true)
 - 🌱 I’m currently learning Javascript , Python , SQL
 
 <!--
