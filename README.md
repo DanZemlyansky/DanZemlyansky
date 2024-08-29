@@ -1,6 +1,4 @@
 ![alt text](https://github.com/DanZemlyansky/DanZemlyansky/blob/main/DanZemlyansky.png?raw=true)
-- 🌱 I’m currently learning Javascript , Python , SQL
-- 🔭 I’m currently working on A fitness Tracking app.
 
 <!--
 **DanZemlyansky/DanZemlyansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
