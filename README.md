@@ -1,4 +1,3 @@
-![alt text](https://github.com/DanZemlyansky/DanZemlyansky/blob/main/DanZemlyansky.png?raw=true)
 
 <!--
 **DanZemlyansky/DanZemlyansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
